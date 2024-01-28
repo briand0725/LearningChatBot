@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello Brian"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hi Brian"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing good today"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hey Brian"
+    },
+    {
+      "question": "What color is the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "President of the united states?",
+      "answer": "Joe Biden"
+    },
+    {
+      "question": "Goodnight",
+      "answer": "Goodnight Brian!"
+    },
+    {
+      "question": "Goodmorning",
+      "answer": "Good morning Brian!"
+    },
+    {
+      "question": "Good afternoon",
+      "answer": "Good afternoon Brian"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "Friendly Fred"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I'm friendly fred"
+    },
+    {
+      "question": "hi",
+      "answer": "hello brian"
+    },
+    {
+      "question": "What is the capital of China?",
+      "answer": "The capital of China is beijing"
+    }
+  ]
+}
